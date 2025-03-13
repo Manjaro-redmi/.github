@@ -1,0 +1,2 @@
+# .github
+Manjaro redmi distribution
